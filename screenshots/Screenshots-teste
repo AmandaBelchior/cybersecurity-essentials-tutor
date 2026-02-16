@@ -1,1 +1,30 @@
+Testes Realizados
 
+1. Aba Conversa (Chat)
+Teste realizado: Pergunta sobre a Triade CIA em Cibersegurança
+Resultado: Resposta bem-formatada e precisa com informações das fontes
+Status: ✅ Funcional
+
+2. Aba Estúdio
+Recursos disponíveis:
+Resumo em Áudio
+Resumo em Vídeo
+Mapa Mental
+Relatórios
+Cartões didáticos
+Teste
+Infográfico
+Apresentação de slides
+Tabela de dados
+Status: ✅ Todos os recursos disponíveis para geração
+
+3. Aba Fontes
+Total de fontes carregadas: 35
+Status: ✅ Todas as fontes carregadas corretamente
+Screenshots Capturados
+Os seguintes screenshots foram capturados para documentação:
+
+Aba Fontes: Lista completa de 35 fontes do NotebookLM
+Aba Conversa: Interface de chat e pergunta sobre a Triade CIA
+Aba Conversa - Resposta: Resposta completa sobre a Triade CIA com informações das fontes
+Aba Estúdio: Visão geral dos recursos de geração (Resumo, Teste, Mapa Mental, etc.)
