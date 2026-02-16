@@ -28,3 +28,59 @@ Aba Fontes: Lista completa de 35 fontes do NotebookLM
 Aba Conversa: Interface de chat e pergunta sobre a Triade CIA
 Aba Conversa - Resposta: Resposta completa sobre a Triade CIA com informações das fontes
 Aba Estúdio: Visão geral dos recursos de geração (Resumo, Teste, Mapa Mental, etc.)
+
+Aba Estúdio: Visão geral dos recursos de geração (Resumo, Teste, Mapa Mental, etc.)
+
+---
+
+## Como Visualizar os Screenshots
+
+Os screenshots foram capturados durante os testes e mostram:
+
+### 1. Aba Fontes
+- Mostra a lista completa de 35 fontes carregadas no NotebookLM
+- Todas as fontes estão marcadas com checkboxes indicando seleção
+- Demonstra a integração bem-sucedida de múltiplas fontes
+
+### 2. Aba Conversa (Chat)
+- Interface do chat com o campo de entrada de texto
+- Pergunta realizada: "O que é a triade CIA em cibersegurança?"
+- Botão de envio visível e funçional
+
+### 3. Resposta do Chat
+- Resposta completa e detalhada sobre a Triade CIA
+- Explica os três pilares: Confidencialidade, Integridade e Disponibilidade
+- Inclui exemplos práticos e informações das fontes
+- Demonstra a efetividade do processamento de lógica de RAG (Retrieval-Augmented Generation)
+
+### 4. Aba Estúdio
+- Grid de recursos disponíveis para geração automática
+- Mostra 9 opções: 
+  - Resumo em Áudio
+  - Resumo em Vídeo
+  - Mapa Mental
+  - Relatórios
+  - Cartões Didáticos
+  - Teste (em geração)
+  - Infográfico
+  - Apresentação de slides
+  - Tabela de dados
+- Cada recurso possui um botão de editar/personalizar
+
+---
+
+## Status dos Testes
+
+✅ **Todos os testes realizados com sucesso**
+
+- NotebookLM está funcional e respondendo corretamente
+- Todas as 35 fontes foram carregadas com sucesso
+- Interface de chat responde rapidamente
+- Recursos de geração de conteúdo estão disponíveis
+- Qualidade das respostas é boa e contextualizada com as fontes
+
+---
+
+**Data dos Testes**: 16 de Fevereiro de 2026
+**Ambiente**: NotebookLM (Google)
+**Status Geral**: 🌟 Excelente
