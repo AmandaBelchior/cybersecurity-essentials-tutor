@@ -60,7 +60,7 @@ Este repositório serve como referência e documentação do projeto Cybersecuri
 .
 ├── README.md                 # Este arquivo
 ├── screenshots/              # Screenshots da solução em funcionamento
-└── documentation/            # Documentação adicional do projeto
+
 ```
 
 ## 💫 Sobre a autora
@@ -71,10 +71,5 @@ Este projeto foi desenvolvido como parte de um programa de estudo estruturado em
 - Aplicação de conceitos de gestão de riscos
 - Compreensão de regulamentações de privacidade
 
-## 📇 Licença
-
-Este projeto está disponibilizado para fins educacionais e de demonstração.
-
----
 
 **Última atualização:** Fevereiro 2026
