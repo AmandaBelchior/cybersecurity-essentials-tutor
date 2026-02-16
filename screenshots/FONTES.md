@@ -48,52 +48,6 @@ Este documento documenta todas as 35 fontes utilizadas no notebook NotebookLM pa
 34. What is the CIA Triad and Why is it important? | Fortinet
 35. cbafd9d6-642d-44b9-a2d4-33c6f8995360_Anotaes_das_Aulas.pdf
 
----
-
-## Testes Realizados
-
-### 1. Aba Conversa (Chat)
-- Teste realizado: Pergunta sobre a Triade CIA em Cibersegurança
-- Resultado: Resposta bem-formatada e precisa com informações das fontes
-- Status: ✅ Funcional
-
-### 2. Aba Estúdio
-- Recursos disponíveis:
-  - Resumo em Áudio
-  - Resumo em Vídeo
-  - Mapa Mental
-  - Relatórios
-  - Cartões didáticos
-  - Teste
-  - Infográfico
-  - Apresentação de slides
-  - Tabela de dados
-- Status: ✅ Todos os recursos disponíveis para geração
-
-### 3. Aba Fontes
-- Total de fontes carregadas: 35
-- Status: ✅ Todas as fontes carregadas corretamente
-
----
-
-## Screenshots Capturados
-
-Os seguintes screenshots foram capturados para documentação:
-
-1. **Aba Fontes**: Lista completa de 35 fontes do NotebookLM
-2. **Aba Conversa**: Interface de chat e pergunta sobre a Triade CIA
-3. **Aba Conversa - Resposta**: Resposta completa sobre a Triade CIA com informações das fontes
-4. **Aba Estúdio**: Visão geral dos recursos de geração (Resumo, Teste, Mapa Mental, etc.)
-
----
-
-## Observações
-
-- O NotebookLM demanda alguns segundos para processar perguntas e gerar respostas baseadas nas fontes
-- A ferramenta é muito eficaz para criação de material didático automático
-- As 35 fontes oferecem cobertura completa de tópicos essenciais em cibersegurança
-
----
 
 **Data de Geração**: Fevereiro 16, 2026
 **Autor**: Amanda Belchior
