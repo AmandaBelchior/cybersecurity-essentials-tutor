@@ -57,7 +57,7 @@ Este repositório serve como referência e documentação do projeto Cybersecuri
 ## 📄 Estrutura do repositório
 
 ```
-.
+
 ├── README.md                 # Este arquivo
 ├── screenshots/              # Screenshots da solução em funcionamento
 
